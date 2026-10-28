@@ -69,13 +69,3 @@ Também é possível abrir o arquivo `.ipynb` diretamente no Google Colab. O dat
 ├── Atividade_estatística_descritiva.ipynb   # Código, gráficos e análises
 └── README.md
 ```
-
-## Créditos
-
-O enunciado e a estrutura dos exercícios foram propostos pela disciplina de Estatística (ADS, Cesar School). O código e as análises escritas foram desenvolvidos por mim.
-
-## Autor
-
-**[Seu nome]**
-Estudante de Análise e Desenvolvimento de Sistemas, Cesar School
-[LinkedIn] · [E-mail]
